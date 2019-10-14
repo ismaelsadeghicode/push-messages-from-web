@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/basic-info/basic-info" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/card-issuer/services/basic-info" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/card-issuer/services/card" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/card-issuer/services/configservice" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/card-issuer/services/customer" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/card-issuer/services/gateway" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/services/access-control" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/services/basic-info" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/services/card" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/services/config" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/services/customer" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/services/discovery" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/services/gateway" value="PREVIEW" />
+        <entry key="D:/projects/card-issuer/services/proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../demo/demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../micro/configserver" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../micro/configserver/configserver" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../micro/micro" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1374" />
+    <option name="height" value="728" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+</project>
